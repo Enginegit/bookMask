@@ -11,13 +11,13 @@ data1 = {
     'sysOrgId': '-1',
     'ispublic': 'N',
     'content': '口罩预约领取',
-    'name': '雷小燕', #必填姓名
-    'mobile': '15876316969', #必填手机
+    'name': '', #必填姓名
+    'mobile': '', #必填手机
     'certType': 'SFZ',
-    'certCode': '441882200311023320',   #必填身份证号
-    'area': 'lianzhoustreet', #必填哪个区（县）
-    'street': '丰阳镇', #哪条街（镇）
-    'scene': '夏炉村委会水鸭塘村',    #具体地址
+    'certCode': '',   #必填身份证号
+    'area': '', #必填哪个区（县）
+    'street': '', #哪条街（镇）
+    'scene': '',    #具体地址
     'mailType':'1'
 }
 
@@ -32,13 +32,13 @@ data2 = {
     'sysOrgId': '-1',
     'ispublic': 'N',
     'content': '口罩预约领取',
-    'name': '李结清', #必填姓名
-    'mobile': '13710832365', #必填手机
+    'name': '', #必填姓名
+    'mobile': '', #必填手机
     'certType': 'SFZ',
-    'certCode': '441825197410280048',   #必填身份证号
-    'area': 'lianzhoustreet', #必填哪个区（县）
-    'street': '丰阳镇', #哪条街（镇）
-    'scene': '夏炉村委会水鸭塘村',    #具体地址
+    'certCode': '',   #必填身份证号
+    'area': '', #必填哪个区（县）
+    'street': '', #哪条街（镇）
+    'scene': '',    #具体地址
     'mailType':'1'
 }
 
@@ -53,13 +53,13 @@ data3 = {
     'sysOrgId': '-1',
     'ispublic': 'N',
     'content': '口罩预约领取',
-    'name': '吴昌灏', #必填姓名
-    'mobile': '13192752697', #必填手机
+    'name': '', #必填姓名
+    'mobile': '', #必填手机
     'certType': 'SFZ',
-    'certCode': '44182520010712061X',   #必填身份证号
-    'area': 'lianshanstreet', #必填哪个区（县）
-    'street': '吉田镇', #哪条街（镇）
-    'scene': '市场西街林苑',    #具体地址
+    'certCode': '',   #必填身份证号
+    'area': '', #必填哪个区（县）
+    'street': '', #哪条街（镇）
+    'scene': '',    #具体地址
     'mailType':'1'
 }
 
@@ -74,13 +74,13 @@ data4 = {
     'sysOrgId': '-1',
     'ispublic': 'N',
     'content': '口罩预约领取',
-    'name': '李柳清', #必填姓名
-    'mobile': '13679547640', #必填手机
+    'name': '', #必填姓名
+    'mobile': '', #必填手机
     'certType': 'SFZ',
-    'certCode': '441825197608160068',   #必填身份证号
-    'area': 'lianshanstreet', #必填哪个区（县）
-    'street': '吉田镇', #哪条街（镇）
-    'scene': '市场西街林苑',    #具体地址
+    'certCode': '',   #必填身份证号
+    'area': '', #必填哪个区（县）
+    'street': '', #哪条街（镇）
+    'scene': '',    #具体地址
     'mailType':'1'
 }
 
@@ -95,13 +95,13 @@ data5 = {
     'sysOrgId': '-1',
     'ispublic': 'N',
     'content': '口罩预约领取',
-    'name': '吴东俭', #必填姓名
-    'mobile': '15992097683', #必填手机
+    'name': '', #必填姓名
+    'mobile': '', #必填手机
     'certType': 'SFZ',
-    'certCode': '441825197211210055',   #必填身份证号
-    'area': 'lianshanstreet', #必填哪个区（县）
-    'street': '吉田镇', #哪条街（镇）
-    'scene': '市场西街林苑',    #具体地址
+    'certCode': '',   #必填身份证号
+    'area': '', #必填哪个区（县）
+    'street': '', #哪条街（镇）
+    'scene': '',    #具体地址
     'mailType':'1'
 }
 
@@ -116,13 +116,13 @@ data6 = {
     'sysOrgId': '-1',
     'ispublic': 'N',
     'content': '口罩预约领取',
-    'name': '雷国华', #必填姓名
-    'mobile': '13535319874', #必填手机
+    'name': '', #必填姓名
+    'mobile': '', #必填手机
     'certType': 'SFZ',
-    'certCode': '441824197501267512',   #必填身份证号
-    'area': 'lianzhoustreet', #必填哪个区（县）
-    'street': '丰阳镇', #哪条街（镇）
-    'scene': '夏炉村委会水鸭塘村',    #具体地址
+    'certCode': '',   #必填身份证号
+    'area': '', #必填哪个区（县）
+    'street': '', #哪条街（镇）
+    'scene': '',    #具体地址
     'mailType':'1'
 }
 
@@ -137,13 +137,13 @@ data7 = {
     'sysOrgId': '-1',
     'ispublic': 'N',
     'content': '口罩预约领取',
-    'name': '张玉婵', #必填姓名
-    'mobile': '13726987912', #必填手机
+    'name': '', #必填姓名
+    'mobile': '', #必填手机
     'certType': 'SFZ',
-    'certCode': '441825198910180822',   #必填身份证号
-    'area': 'lianshanstreet', #必填哪个区（县）
-    'street': '吉田镇', #哪条街（镇）
-    'scene': '民族度假村前台',    #具体地址
+    'certCode': '',   #必填身份证号
+    'area': '', #必填哪个区（县）
+    'street': '', #哪条街（镇）
+    'scene': '',    #具体地址
     'mailType':'1'
 }
 
@@ -158,13 +158,13 @@ data8 = {
     'sysOrgId': '-1',
     'ispublic': 'N',
     'content': '口罩预约领取',
-    'name': '李福财', #必填姓名
-    'mobile': '15919287811', #必填手机
+    'name': '', #必填姓名
+    'mobile': '', #必填手机
     'certType': 'SFZ',
-    'certCode': '44020219810606091X',   #必填身份证号
-    'area': 'lianshanstreet', #必填哪个区（县）
-    'street': '吉田镇', #哪条街（镇）
-    'scene': '民族度假村前台',    #具体地址
+    'certCode': '',   #必填身份证号
+    'area': '', #必填哪个区（县）
+    'street': '', #哪条街（镇）
+    'scene': '',    #具体地址
     'mailType':'1'
 }
 
